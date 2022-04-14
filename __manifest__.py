@@ -2,13 +2,11 @@
 {
     'name': "User’s Own Forms/ Documents Only (Odoo Purchase Module)",
     'summary': "User’s Own Forms/ Documents Only (Odoo Purchase Module)",
-    'author': "iTech Resources",
-    'website': "https://itechresources.pk",
+    'author': "LTech",
+    'website': "https://ltcs.com.br",
     'license': 'LGPL-3',
     "installable": True,
     'auto_install': False,
-    'price': '4.43',
-    'currency': 'EUR',
     'category': 'Purchase',
     'version': '14.0',
 
